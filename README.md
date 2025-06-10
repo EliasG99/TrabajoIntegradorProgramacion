@@ -2,7 +2,9 @@
 #Integrantes: 
 -Gomez Elias Walter, gomezelias1790@gmail.com. Comision 2
 -Frasconá Francisco, franciscofrascona@gmail.com. Comision 2
-## Link del Video: https://youtu.be/c7yrvRFsxkU  ||  https://drive.google.com/file/d/1THezAthRDlM06_5KwydanMUs6OGAepyl
+## Link del Video: https://drive.google.com/file/d/1THezAthRDlM06_5KwydanMUs6OGAepyl
+#Aclaracion:
+No se pudo subir el video a Youtube debido a que lo dan de baja. Suponemos que debe ser por mostrar el DNI en el video.
 ## 📁 Contenido del repositorio
 
 - `TP-Biblioteca.pdf` → Informe completo del trabajo práctico.
